@@ -5,16 +5,16 @@
 
 ## Week 1 (Jun 30-Jul 6) - Java Basics
 **Day 1:**
-- data types (20 mins video)
+- [data types](https://www.youtube.com/watch?v=TGVLmr194DI&list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc&index=2) (20 mins video)
 
 **Day 2:**
-- scanner (16 mins video)
+- [scanner](https://www.youtube.com/watch?v=RAthlOQUMkc&list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc&index=3) (16 mins video)
 
 **Day 3:**
-- arithmetic (8 mins video)
+- [arithmetic](https://www.youtube.com/watch?v=QAD5unRlCyo&list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc&index=5) (8 mins video)
 
 **Day 4:**
-- if (14 mins video)
+- [if](https://www.youtube.com/watch?v=Q_ll-EKocuI&list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc&index=7) (14 mins video)
 
 ## Week 2 (Jul 7-13) - Strings and Control Flow
 **Day 1:**
